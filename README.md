@@ -10,4 +10,3 @@ Que vous soyez curieux d'apprendre, intéressé par la manière dont fonctionne 
 ## 🚀 Comment utiliser le code
 
 Clonez simplement ce dépôt, installez les dépendances, et configurez vos fichiers `.env` avec les informations nécessaires pour connecter votre bot à Discord. Ensuite, lancez le serveur et profitez de votre propre version du dashboard.
-```bash
