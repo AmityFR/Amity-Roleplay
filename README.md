@@ -24,8 +24,6 @@ Il est important pour nous d'expliquer nos motivations de manière transparente.
 
 Voici une vidéo montrant Stananas en action, menant des raids sur des serveurs Discord, ce qui va à l'encontre des politiques de Discord.
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/8giuwe?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
 [![Preuve vidéo](https://streamable.com/8giuwe?src=player-page-share)
 *Cliquez sur l'image pour voir la vidéo sur YouTube.*
 
