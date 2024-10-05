@@ -28,9 +28,6 @@ Pour bien illustrer la gravité de la situation, nous incluons ici **des images 
 ![Stananas - Photo 1](https://cdn.discordapp.com/attachments/910927014440099900/1292145434969772135/image.webp?ex=6702abb6&is=67015a36&hm=0894539688aea302e2c8af6659dfc6f4d330ebe41be846cbfec51e3f4d0b3a5f&)
 *Stananas, propriétaire du projet.*
 
-![Stananas - Photo 2](https://cdn.discordapp.com/attachments/910927014440099900/1292145434969772135/image.webp?ex=6702abb6&is=67015a36&hm=0894539688aea302e2c8af6659dfc6f4d330ebe41be846cbfec51e3f4d0b3a5f&)
-*Une autre image de Stananas.*
-
 Ces images ne sont qu'un avertissement. Si **Stananas ne supprime pas son application et continue sur cette voie**, le **code complet de son bot** sera également leaké.
 
 ### ⚠️ Conclusion
