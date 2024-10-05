@@ -17,6 +17,18 @@ Il est important pour nous d'expliquer nos motivations de manière transparente.
 3. **Mauvaise gestion de ses services Premium :**
    - La gestion des abonnements et des services Premium qu'il propose à ses utilisateurs est **clairement douteuse** et témoigne d'un manque total de transparence et d'intégrité.
 
+4. **Raids sur des serveurs Discord :**
+   - Stananas est également impliqué dans des **raids illégaux** sur plusieurs serveurs Discord. Voici une vidéo qui montre ses actions en train de violer les règles de la plateforme.
+
+### 🎥 Vidéo de preuve
+
+Voici une vidéo montrant Stananas en action, menant des raids sur des serveurs Discord, ce qui va à l'encontre des politiques de Discord.
+
+[![Preuve vidéo](https://cdn.discordapp.com/attachments/1291883131124846641/1292175224061825157/encore.mp4?ex=6702c774&is=670175f4&hm=99d44948b550330471db1793e6a3a50a090966bcaa9a490fff8c48d7cc2ebb5c&)
+*Cliquez sur l'image pour voir la vidéo sur YouTube.*
+
+> *Note : La vidéo est hébergée sur une plateforme externe pour respecter les conditions d'utilisation de GitHub.*
+
 ### 🎯 Notre objectif
 
 Nous ne souhaitons pas propager la haine. Notre but est simplement de **faire réfléchir** Stananas et de lui faire comprendre que chaque action a des conséquences. Il est temps pour lui de réaliser que ses choix et ses actes ont un impact, tant sur ses collaborateurs que sur sa communauté.
