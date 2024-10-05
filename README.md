@@ -33,13 +33,6 @@ Voici une vidéo montrant Stananas en action, menant des raids sur des serveurs 
 
 Nous ne souhaitons pas propager la haine. Notre but est simplement de **faire réfléchir** Stananas et de lui faire comprendre que chaque action a des conséquences. Il est temps pour lui de réaliser que ses choix et ses actes ont un impact, tant sur ses collaborateurs que sur sa communauté.
 
-### 🖼️ Images de Stananas
-
-Pour bien illustrer la gravité de la situation, nous incluons ici **des images de Stananas**, pour qu'il comprenne que les conséquences peuvent aller encore plus loin si aucune mesure n'est prise de son côté.
-
-![Stananas - Photo 1](https://cdn.discordapp.com/attachments/910927014440099900/1292145434969772135/image.webp?ex=6702abb6&is=67015a36&hm=0894539688aea302e2c8af6659dfc6f4d330ebe41be846cbfec51e3f4d0b3a5f&)
-*Stananas, propriétaire du projet.*
-
 Ces images ne sont qu'un avertissement. Si **Stananas ne supprime pas son application et continue sur cette voie**, le **code complet de son bot** sera également leaké.
 
 ### ⚠️ Conclusion
